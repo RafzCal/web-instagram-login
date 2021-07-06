@@ -4,5 +4,5 @@
 
 (This project was developed with the objective to apply the studied content about HTML5 and CSS3 in the course off Front-End Development)
 
-Para variar um pouco utilizei de algumas modificações de CSS para trazer um modelo sem o azul típico do instagram e utilizando uma combinação de cores mais neutras e arredondando algumas bordas.
+Para variar um pouco utilizei de algumas modificações no CSS3 para trazer um modelo sem o azul típico do instagram, usando uma combinação de cores mais neutras e arredondando algumas bordas.
 
