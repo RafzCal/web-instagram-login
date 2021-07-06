@@ -7,3 +7,4 @@
 Para variar um pouco utilizei de algumas modificações no CSS3 para trazer um modelo sem o azul típico do instagram, usando uma combinação de cores mais neutras e arredondando algumas bordas.
 
 # web-login-instagram
+# web-instagram-login
